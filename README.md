@@ -1,10 +1,10 @@
 # aDawningOfAI
 
-## Coming.. Second Sunday of October, year Twenty Seventeen. ##
+## Still Rising, October, year Twenty Seventeen. ##
 
 >>*..because some times how one starts, matters.* 
 
->>>>*-Garan*    ..Get-r-Dawn!
+>>>>*-Garan*
 
 
 
@@ -16,7 +16,7 @@
 
  * **Currently**, source code is undergoing due-diligence.
 
- * **Encrypted Back-Up** is not yet public, yet is stored via decentralized Interplanetary File System (IPFS).
+ * **Encrypted Back-Up** is not yet publicly readable, yet is encrypted and stored via decentralized Interplanetary File System (IPFS).
 
 Contributions and tips are welcome, appreciated, and probably necessary.
 

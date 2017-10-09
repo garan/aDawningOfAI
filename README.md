@@ -16,7 +16,7 @@
 
  * **Currently**, source code is undergoing due-diligence.
 
- * **Encrypted Back-Up** is not yet publicly readable, yet is encrypted and stored via decentralized Interplanetary File System (IPFS).
+ * **Encrypted Back-Up** is not yet publicly readable, yet is encrypted and stored via decentralized Interplanetary File System (IPFS) ..for eternity.
 
 Contributions and tips are welcome, appreciated, and probably necessary.
 
@@ -26,5 +26,6 @@ IPFS file publicly accessible at:
 Updates available via: 
  * [twitter.com/aDawningOfAI](https://twitter.com/aDawningOfAI)
 
-Contact: provided soon
+Contact:
+ * [GaranTech13@gmail.com](mailto://GaranTech13@gmail.com)
 

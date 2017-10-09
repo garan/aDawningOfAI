@@ -13,14 +13,18 @@
 
  * **Topic-wise**, this Demo is an informative listing of Pattern Based Softwares with an emphasis towards Artificial Intelligence.
 
-Contributions and tips are welcome, appreciated, and probably necessary.
-
 
  * **Currently**, source code is undergoing due-diligence.
 
- * **Encrypted Back-Up** is not yet public, yet is stored via decentralized Interplanetary File System, publicly accessible at: http://ipfs.io/ipfs/Qmd7JH7g3JvS73ALpQYhkMnpLNmc1A4zy3b1p9NBvorp2H
+ * **Encrypted Back-Up** is not yet public, yet is stored via decentralized Interplanetary File System (IPFS).
 
-Updates available via: provided soon
+Contributions and tips are welcome, appreciated, and probably necessary.
+
+IPFS file publicly accessible at:
+ * [ipfs.io/ipfs/Qmd7JH...vorp2H](http://ipfs.io/ipfs/Qmd7JH7g3JvS73ALpQYhkMnpLNmc1A4zy3b1p9NBvorp2H)
+
+Updates available via: 
+ * [twitter.com/aDawningOfAI](https://twitter.com/aDawningOfAI)
 
 Contact: provided soon
 
